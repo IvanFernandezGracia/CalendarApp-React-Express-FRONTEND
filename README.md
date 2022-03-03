@@ -2,7 +2,6 @@
 Application for scheduling tasks displayed on a calendar. 
 React is used for the frontend, Node Express for the backend and Mongo Atlas for the database. The calendar shows the tasks to be performed by a group of people, where each person can make a CRUD of their own tasks. Only other people's tasks are allowed to be displayed. To enter the calendar you must authenticate and receive authorization. 
 
-Translated with www.DeepL.com/Translator (free version)
 ## Link CalendarApp-React-Express-BACKEND Repository
 https://github.com/IvanFernandezGracia/CalendarApp-React-Express-BACKEND
 
