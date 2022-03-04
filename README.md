@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/48660555/156672465-822479f3-b5bf-49c7-
         <ul>
           <li>Redux</li>
           <li>Redux thunk</li>
-          <li>Dispach</li>
+          <li>dispatch</li>
           <li>Redux Reducer</li>
           <li>Router Private</li>
           <li>Router Public</li>
